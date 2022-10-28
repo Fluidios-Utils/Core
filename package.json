@@ -1,0 +1,14 @@
+{
+  "name": "com.fluidious.Utils",
+  "displayName": "Fluidious Utils",
+  "version": "1.0.0",
+  "unity": "2021.3.8f1",
+  "author": "Fluidious",
+  "description": "I'll place some usefull things here.",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fluidios-Utils/Utils.git"
+  }
+}

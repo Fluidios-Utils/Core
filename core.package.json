@@ -1,7 +1,7 @@
 {
   "name": "com.fluidious.core",
   "displayName": "FUtils.Core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2021.3",
   "author": "Fluidious",
   "description": "Some core classes.",
